@@ -5,3 +5,4 @@ export * from './directivo.controller';
 export * from './empleado.controller';
 export * from './empresa.controller';
 export * from './proveedor.controller';
+export * from './empresa-proveedor.controller';
